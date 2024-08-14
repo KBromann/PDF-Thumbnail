@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { PdfThumbnailComponent} from "./pdf-thumbnail/pdf-thumbnail.component";
 
 @Component({
   selector: 'app-root',
